@@ -90,9 +90,11 @@ def generate_html():
         </head>
         <body>
             <h1>Informacoes do Sistema</h1>
-            <h2>Integrantes:</h2>
+            <h2>Integrantes: (GRUPO-05)</h2>
             <h3>Cassiano Luis Flores Michel - 20204012-7</h3>
-            <h3>Pedro Menuzzi Mascaro - 20103702-5</h3>
+            <h3>Mateus de Carvalho de Freitas - 20204015-7</h3>
+            <h3>Pedro Menuzzi Mascaró - 20103702-5</h3>
+            <h3>Gustavo Geyer Arrussul Winkler dos Santos - 19102825-7</h3>
             <ul>
                 <li>Data e hora do sistema: {get_time()}</li>
                 <li>Tempo de funcionamento sem reinicializacao do sistema: {format_time(uptime)}</li>
